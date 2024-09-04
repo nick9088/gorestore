@@ -1,0 +1,9 @@
+[Info]
+EID=gdp#
+Desc=Chronoswitch
+Size=441
+Code=chronoswitch
+FName=EBOOT.PBP
+
+[File]
+C=http://nick9088.github.io/gorestore/xpd/chronoswitch/EBOOT.PBP
